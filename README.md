@@ -1,2 +1,2 @@
-# Clssses_e_Objetos
+# Classes_e_Objetos
 Exercícios de Classes e Objetos - POO
