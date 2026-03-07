@@ -1,0 +1,15 @@
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\bin\Debug\net9.0\Atividade3.exe
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\bin\Debug\net9.0\Atividade3.deps.json
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\bin\Debug\net9.0\Atividade3.runtimeconfig.json
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\bin\Debug\net9.0\Atividade3.dll
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\bin\Debug\net9.0\Atividade3.pdb
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\Atividade3.AssemblyInfoInputs.cache
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\Atividade3.AssemblyInfo.cs
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\Atividade3.sourcelink.json
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\Atividade3.dll
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\refint\Atividade3.dll
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\Atividade3.pdb
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\Atividade3.genruntimeconfig.cache
+C:\Users\saraa\Classes&Objetos\Classes_e_Objetos\Atividade3\obj\Debug\net9.0\ref\Atividade3.dll
