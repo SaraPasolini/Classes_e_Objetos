@@ -49,7 +49,9 @@ class Program
         carro3.anoFabricacao = 1970;
 
         Carro.ExibirInformacoes(carro1);
+        Carro.Buzinar();
         Carro.ExibirInformacoes(carro2);
+        Carro.Buzinar();
         Carro.ExibirInformacoes(carro3);
         Carro.Buzinar();
 
